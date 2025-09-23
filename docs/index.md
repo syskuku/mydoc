@@ -12,8 +12,8 @@ hero:
   actions:
     - text: 快速上手
       link: /start
-    - text: 内容导航
-      link: /nav/
+    - text: 暂无
+      link: /
       theme: alt
 features:
   - icon: 📖
@@ -28,7 +28,7 @@ features:
     linkText: 访问博客
   - icon: ❤️
     title: VOCALOID资源站导航
-    details: 在工作中学到的一切<small>（常用库/工具/奇淫技巧等）</small><br />配合 CV 大法来更好的摸鱼
+    details: 这是一个资源站导航
     link: https://voicebanks.imikufans.com/
     linkText: 访问导航
   - icon: ❤️
