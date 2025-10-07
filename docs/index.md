@@ -12,8 +12,8 @@ hero:
   actions:
     - text: 快速上手
       link: /start
-    - text: 暂无
-      link: /
+    - text: 赞助本站
+      link: https://voicebanks1.imikufans.com/%2300%E8%B5%9E%E5%8A%A9%E7%BD%91%E7%AB%99-%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%BD%91%E7%AB%99%E8%B5%84%E9%87%91%E4%B8%8D%E8%B6%B3%E7%9A%84%E9%97%AE%E9%A2%98/%E8%B5%9E%E5%8A%A9%E6%94%B6%E6%AC%BE%E7%A0%81
       theme: alt
 features:
   - icon: 📖
